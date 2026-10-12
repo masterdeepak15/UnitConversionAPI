@@ -1,0 +1,9 @@
+PRD.jpeg
+PRD.jpg
+*.jpeg
+bin/
+obj/
+.vs/
+*.user
+TestResults/
+PROJECT_EXPLAINED.md
